@@ -37,11 +37,7 @@ const AboutMe = () => {
         <div className="text-center mt-8">
           <h3 className="text-xl font-semibold text-gray-800">Check Out My Work</h3>
           <p className="mt-2 text-gray-600">Explore my portfolio to see some of the projects I've worked on.</p>
-          {/* <a href="https://khushshah.vercel.app/" target='_blank'>
-            <Button className="mt-4 bg-blue-500 text-white hover:bg-blue-600">
-              Visit My Portfolio
-            </Button>
-          </a> */}
+         
         </div>
       </div>
     </div>
