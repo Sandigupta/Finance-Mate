@@ -25,7 +25,7 @@ const AboutMe = () => {
           <div className="md:w-2/3 md:ml-6">
             <h2 className="text-2xl font-semibold text-gray-800">Hi, I'm Sandeep Gupta</h2>
             <p className="mt-4 text-gray-700">
-            Hi! I'm a passionate web developer currently in my third year at IIIT Ranchi, pursuing a BTech degree with the class of 2026. My journey in the tech world has led me to work on various exciting projects, and I've developed a deep love for Data Structures and Algorithms (DSA) as well as Competitive Programming (CP).
+            Hi! I'm a passionate web developer currently in my third year at IIIT Ranchi, pursuing a BTech degree with the class of 2026. My journey in the tech world has led me to work on various exciting projects, and I've developed a deep love for Data Structures and Algorithms (DSA) as well as Full Stack Web Development.
             </p>
             <p className="mt-4 text-gray-700">
             I'm currently honing my skills in the MERN stack, and I'm always eager to learn more and take on new challenges. Check out my portfolio to see some of the projects I've been working on!
