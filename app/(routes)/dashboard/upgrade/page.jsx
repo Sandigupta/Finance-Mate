@@ -23,7 +23,7 @@ const AboutMe = () => {
             />
           </div>
           <div className="md:w-2/3 md:ml-6">
-            <h2 className="text-2xl font-semibold text-gray-800">Hi, I'm Khush Shah</h2>
+            <h2 className="text-2xl font-semibold text-gray-800">Hi, I'm Sandeep Gupta</h2>
             <p className="mt-4 text-gray-700">
             Hi! I'm a passionate web developer currently in my third year at IIIT Ranchi, pursuing a BTech degree with the class of 2026. My journey in the tech world has led me to work on various exciting projects, and I've developed a deep love for Data Structures and Algorithms (DSA) as well as Competitive Programming (CP).
             </p>
@@ -37,11 +37,11 @@ const AboutMe = () => {
         <div className="text-center mt-8">
           <h3 className="text-xl font-semibold text-gray-800">Check Out My Work</h3>
           <p className="mt-2 text-gray-600">Explore my portfolio to see some of the projects I've worked on.</p>
-          <a href="https://khushshah.vercel.app/" target='_blank'>
+          {/* <a href="https://khushshah.vercel.app/" target='_blank'>
             <Button className="mt-4 bg-blue-500 text-white hover:bg-blue-600">
               Visit My Portfolio
             </Button>
-          </a>
+          </a> */}
         </div>
       </div>
     </div>
